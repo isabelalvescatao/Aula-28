@@ -1,1 +1,4 @@
-# Aula-28
+# Integrantes
+- Isabel Catão
+- Maíra Oliveira
+- Ariel Lopes
