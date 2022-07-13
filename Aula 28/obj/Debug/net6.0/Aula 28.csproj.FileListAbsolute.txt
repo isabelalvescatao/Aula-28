@@ -1,0 +1,26 @@
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\appsettings.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\Aula 28.staticwebassets.runtime.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\Aula 28.exe
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\Aula 28.deps.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\Aula 28.runtimeconfig.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\Aula 28.dll
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\bin\Debug\net6.0\Aula 28.pdb
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.csproj.AssemblyReference.cache
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.AssemblyInfoInputs.cache
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.AssemblyInfo.cs
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.csproj.CoreCompileInputs.cache
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.RazorAssemblyInfo.cache
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.RazorAssemblyInfo.cs
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\scopedcss\bundle\Aula 28.styles.css
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\scopedcss\projectbundle\Aula 28.bundle.scp.css
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.dll
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\refint\Aula 28.dll
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.pdb
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\Aula 28.genruntimeconfig.cache
+C:\Users\isabelc\Desktop\Aula 28\Aula 28\obj\Debug\net6.0\ref\Aula 28.dll
